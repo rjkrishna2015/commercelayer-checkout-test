@@ -54,7 +54,7 @@
     },
 
     "stepCustomer": {
-        "title": "Customer",
+        "title": "Customer Netlify",
         "addNewAddress": "Add new address",
         "saveAddressBook": "Save this address in your account",
         "continueToDelivery": "Continue to delivery",
