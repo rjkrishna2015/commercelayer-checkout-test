@@ -36,7 +36,7 @@ const Order: NextPage = () => {
   return (
     <DynamicCheckoutContainer settings={settings}>
       <DynamicCheckout
-        logoUrl={settings.logoUrl}
+        logoUrl={"https://do6sydhp1s299.cloudfront.net/assets/images/logo.svg"}
         orderNumber={settings.orderNumber}
         companyName={settings.companyName}
         supportEmail={settings.supportEmail}
